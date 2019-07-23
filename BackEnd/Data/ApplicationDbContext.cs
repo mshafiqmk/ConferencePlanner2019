@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace BackEnd.Models
+namespace BackEnd.Data
     {
     public class ApplicationDbContext : DbContext
         {
